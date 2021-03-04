@@ -7,8 +7,11 @@
 	height: 365px
 }
 .acerca{
-	background-color: red;
-	height: 300px
+	background-color: rgb(77, 214, 43);
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
 }
 .esmeraldas1{
 	background-color: lightgreen;
